@@ -1,0 +1,6 @@
+out/
+docs/
+*.class
+.idea/
+*.iml
+.vscode/
